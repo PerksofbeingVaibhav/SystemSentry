@@ -44,3 +44,5 @@ A comprehensive File Monitoring System that tracks file access and usage, with s
 ## Contributors
 - [Kartik Mehta](https://github.com/kartikmehta8)
 - [Kartik Goel](https://github.com/kartik739)
+- [Vaibhav Chaudhary](https://github.com/PerksofbeingVaibhav)
+
